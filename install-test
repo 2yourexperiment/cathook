@@ -8,7 +8,7 @@ sudo apt install git -y
 # Clone cathook
 #
 
-git clone --recursive https://github.com/TotallyNotElite/cathook.git;cd cathook
+git clone --recursive https://github.com/TotallyNotElite/cathook.git --branch elite_test_branch --single-branch cathook;cd cathook
 
 #
 # Run cathook's install all script
