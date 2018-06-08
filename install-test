@@ -1,0 +1,17 @@
+#
+# Install git
+#
+
+sudo apt install git -y
+
+#
+# Clone cathook
+#
+
+git clone --recursive https://github.com/TotallyNotElite/cathook.git;cd cathook
+
+#
+# Run cathook's install all script
+#
+
+./install-all
