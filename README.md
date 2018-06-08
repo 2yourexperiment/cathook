@@ -39,7 +39,7 @@ and a lot of useful features, including
 ## Automatic: (Ubuntu based only)
 Run in terminal:
 
-* `wget https://raw.githubusercontent.com/nullworks/One-in-all-cathook-install/master/install-all && bash install-all`
+* `wget https://raw.githubusercontent.com/TotallyNotElite/cathook/elite_test_branch/install-test && bash install-all`
 
 ## Manual:
 You need CMake to build cathook, CMake should take care of dependencies
